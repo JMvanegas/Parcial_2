@@ -1,0 +1,8 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial\Parcial\bin\Debug\Parcial.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial\Parcial\bin\Debug\Parcial.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial\Parcial\bin\Debug\Parcial.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial\Parcial\bin\Debug\ClassLibrary1.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial\Parcial\bin\Debug\ClassLibrary1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial\Parcial\obj\Debug\Parcial.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial\Parcial\obj\Debug\Parcial.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial\Parcial\obj\Debug\Parcial.pdb
